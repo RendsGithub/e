@@ -1,0 +1,30 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "185.252.144.220",
+        "flow": "xtls-rprx-vision",
+        "name": "Serv220-11_220Serv",
+        "pass": "48fe9a89-9217-4b5c-a864-cae2fd2097ca",
+        "port": 443,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "tcp",
+            "pbk": "H_TT8uQ2KPuS4D587Lrv3DCBh27loJgemHfgqOoVOzI",
+            "sec": "tls",
+            "sid": "0c84bb",
+            "sni": "www.google.com",
+            "spx": "/",
+            "utls": "firefox"
+        }
+    },
+    "gid": 0,
+    "id": 1,
+    "traffic": {
+        "dl": 1882684720,
+        "ul": 46246357
+    },
+    "type": "vless",
+    "yc": 0
+}
